@@ -1,6 +1,6 @@
-# demo-shop
+# ShopKart API
 
-A tiny shop backend: cart totals, GST invoices, user signup.
+Backend for ShopKart, a small online store: cart totals, GST invoices, user signup.
 
 Run tests with:
 
